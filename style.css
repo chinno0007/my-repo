@@ -1,0 +1,52 @@
+body{
+    background-color: gainsboro;
+   
+    margin: 0 auto;
+    text-align: justify;
+}
+
+p small{
+    text-align: center;
+}
+
+
+/* .p-bridge{
+    display: flex;
+    float: right;
+    
+
+
+
+} */
+
+.second{
+    float: right;
+}
+/* #authore{
+    text-align: center;
+    margin-top: opx;
+} */
+.head{
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+
+.padma{
+    
+
+}
+.padma img{
+    width: 300px;
+    float: right;
+    height: 400px;
+    margin-left: 30px;
+}
+.bridge{
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: o px;
+}
